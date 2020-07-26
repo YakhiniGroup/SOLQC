@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: swifter
+Version: 0.281
+Summary: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
+Home-page: https://github.com/jmcarpenter2/swifter
+Author: Jason Carpenter
+Author-email: jcarpenter@manifold.ai
+License: UNKNOWN
+Download-URL: https://github.com/jmcarpenter2/swifter/archive/0.281.tar.gz
+Description: UNKNOWN
+Keywords: pandas,dask,apply,function,parallelize,vectorize
+Platform: UNKNOWN

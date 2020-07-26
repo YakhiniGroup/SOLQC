@@ -1,0 +1,3 @@
+#!/Users/yoavorlev/Dev/personal/SOLQC-master/solqc/bin/python
+from numba.pycc import main
+main()
